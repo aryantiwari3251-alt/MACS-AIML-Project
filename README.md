@@ -213,5 +213,5 @@ engine.runAndWait()
 
 ## 👤 Author
 
-**Divanshu Yadav**  
+**Aryan Tiwari**  
 Real-Time Sign Language to Speech Translation
