@@ -108,7 +108,7 @@ scikit-learn==1.3.0
 - Images captured at 128×128 resolution via webcam
 - Same background across captures; augmentation handles generalization
 
-> 📥 Download the dataset and pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1fs7hk-6hUVE1limRQXXNTDDXmLM87AYf?usp=sharing)
+> 📥 Download the dataset and pre-trained model from [Drive Link](https://drive.google.com/drive/folders/10bCNe7xpB4YaRJSH-7uMnft3FMIdSCeA?usp=drive_link)
 
 Place the downloaded dataset folder at the root of the project as `dataset_sign_detection_3.0/`.
 
